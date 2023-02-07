@@ -1,0 +1,7 @@
+input {
+  border: 2px solid red;
+  caret-color: red;
+}
+input :focus {
+  border: 2px solid blueviolet;
+}
